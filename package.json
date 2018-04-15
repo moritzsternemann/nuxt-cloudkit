@@ -1,14 +1,19 @@
 {
   "name": "nuxt-cloudkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "dist/nuxt-cloudkit.js",
-  "typings": "./dist/nuxt-cloudkit.d.ts",
+  "main": "lib/nuxt-cloudkit-module.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "build:watch": "tsc -w -p ."
   },
   "devDependencies": {
-    "typescript": "^2.8.1"
+    "@types/node": "^9.6.5",
+    "path": "^0.12.7",
+    "vue": "^2.5.16"
+  },
+  "dependencies": {
+    "event-emitter-es6": "^1.1.5"
   }
 }
