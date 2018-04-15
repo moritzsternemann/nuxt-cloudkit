@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-cloudkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/nuxt-cloudkit.js",
+  "typings": "./dist/nuxt-cloudkit.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
