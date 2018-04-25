@@ -6,10 +6,6 @@
   version "9.6.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.5.tgz#ee700810fdf49ac1c399fc5980b7559b3e5a381d"
 
-event-emitter-es6@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/event-emitter-es6/-/event-emitter-es6-1.1.5.tgz#ef95311b2e17aa39be763b031ce4af7ee9cb7849"
-
 inherits@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"

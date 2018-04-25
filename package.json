@@ -1,6 +1,6 @@
 {
   "name": "nuxt-cloudkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/nuxt-cloudkit-module.js",
   "license": "MIT",
@@ -13,7 +13,5 @@
     "path": "^0.12.7",
     "vue": "^2.5.16"
   },
-  "dependencies": {
-    "event-emitter-es6": "^1.1.5"
-  }
+  "dependencies": {}
 }
